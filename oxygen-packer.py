@@ -1,5 +1,4 @@
 import sys
-import time
 import os
 
 if __name__ == '__main__':
